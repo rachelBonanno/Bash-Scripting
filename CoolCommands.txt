@@ -1,0 +1,16 @@
+cal
+	gives you a calender
+
+who
+	prints who is curently logged in on server
+
+write
+	write a message to someone on the server
+
+sl
+	makes a train run arcoss screen
+
+cow speak
+
+finger
+	see every one on yoyr virtual machine
