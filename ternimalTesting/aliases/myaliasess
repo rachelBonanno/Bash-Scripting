@@ -1,0 +1,5 @@
+#from this directory, run 'source .myaliasess ' then 'temp' in the terminal
+# to see what happens
+
+alias temp ="echo This workshop is cool!"
+alias whatever="ls | wc "
