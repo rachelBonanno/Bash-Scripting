@@ -3,3 +3,4 @@
 
 alias temp ="echo This workshop is cool!"
 alias whatever="ls | wc "
+alias kuri="cd /Users/name/Desktop/directory/file\ aliases"
