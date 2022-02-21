@@ -1,0 +1,6 @@
+less 
+	can open a file and let you scroll through it nicely but it can also do with pipes so you can take 
+	any program that has an output and you want to scroll through the standard output nicely; with 
+	valgrind if you want to youe it you can just do less valgrind bc vagrind does not doesn’t feed to 
+	standard input so to use less with valgrind is 
+													valgrind ./file 2>&1 | less
