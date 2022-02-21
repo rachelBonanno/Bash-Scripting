@@ -1,0 +1,15 @@
+tab 
+	autocomplete
+
+control + A 
+	to go to frount of line
+
+control + E
+	to go to the end ofa line
+
+Control + K
+	clears the line that appears after the cursor
+	
+!!
+	will run last comand
+	EX: it you dont want to type last command but dont want to retype it to run valgrind you can do: valgrind !!
