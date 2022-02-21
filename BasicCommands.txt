@@ -1,0 +1,17 @@
+cd, mv, pwd, mkdir, cp, file
+
+echo  
+	the quintessential print command for linix
+  	
+	echo $?
+		prints the return code of the code of the previous command that was run
+
+ls -la
+	shows all of the permissions onn every file on the derectory (even the invisible ones)
+	
+	ls *.txt
+		shows all of the .txt files in the current working directory
+
+chmod
+	modifying the permission of a file
+	4 -read, 2 -write, 1 -exec
