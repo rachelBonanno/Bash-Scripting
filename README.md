@@ -2,6 +2,8 @@
 
 This contains all of the code related to the interactive section
 
+https://github.com/alexz12948/halligan-tips
+
 ## Powerpoint
 
 Here is are the slides associated with workshop!
